@@ -1,0 +1,201 @@
+body {
+    font-family: 'Aerial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://wallpaperaccess.com/full/136995.jpg);
+    background-size : cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+
+/* header */        /* header */         /* header */
+
+
+/* Resetting default styles and applying some basic styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Styling the header */
+header {
+    background-color: #333; /* Background color for the header */
+    padding: 10px; /* Add some padding to the header */
+}
+
+/* Styling the navigation bar */
+.navigation {
+    display: flex; /* Make the navigation bar a flex container */
+    justify-content: space-around; /* Distribute the links evenly across the container */
+}
+
+/* Styling the navigation links */
+.navigation a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Set text color to white */
+    font-weight: bold; /* Make the text bold */
+    font-size: 16px; /* Set the font size */
+    padding: 10px; /* Add padding to the links for better spacing */
+    transition: color 0.3s ease; /* Add a smooth transition effect for color changes */
+}
+
+/* Hover effect for the navigation links */
+.navigation a:hover {
+    color: #ffcc00; /* Change text color on hover */
+}
+
+
+header {
+    background-color: blue;
+    color:black;
+    text-align: left;
+    padding: 1em;
+    background-image: url(https://wallpapercave.com/wp/wp6938408.jpg);
+    background-size : cover; 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+main {
+    text-align: left;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 2em;
+    
+    
+}
+
+#calendar {
+    text-align: left;
+    /* Style your calendar here if needed */
+}
+
+#appointment-form {
+    width: 40%;
+    text-align: left;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+label {
+    margin-bottom: 0.5em;
+    text-align: left;
+}
+
+input, textarea {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    text-align: left;
+    box-sizing: border-box;
+}
+button:hover {
+    background-color: aquamarine;
+}
+footer {
+    background-image: url(https://wallpapercave.com/wp/wp6938408.jpg);
+    background-size : cover; 
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0ch;
+    width: 100%;
+}
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #282c35; /* Dark background color */
+    color: black; /* Text color */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#calendar {
+    background-color: #00bcd4; /* Calendar background color */
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#appointment-form {
+    background-color: #394240; /* Form background color */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1); /* White shadow for a futuristic look */
+    width: 300px;
+    text-align: center;
+}
+
+h2 {
+    color: #00bcd4; /* Form title color */
+    margin-bottom: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    color: #00bcd4; /* Label color */
+    margin-bottom: 5px;
+}
+
+select,
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: #282c35; /* Input background color */
+    color: #fff; /* Input text color */
+}
+
+button {
+    background-color: #00bcd4; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #008ba3; /* Button background color on hover */
+}
+
+.img_234{
+    display: block;
+}
+
+
+
+
